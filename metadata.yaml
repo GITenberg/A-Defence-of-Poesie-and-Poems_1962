@@ -1,5 +1,5 @@
 _repo: A-Defence-of-Poesie-and-Poems_1962
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Poetry -- Early works to 1800'
 - !lcc 'PN'
+- GITenberg
 title: A Defence of Poesie and Poems
 url: http://www.gutenberg.org/ebooks/1962
